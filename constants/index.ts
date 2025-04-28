@@ -31,7 +31,7 @@ export const Skill_data = [
     },
     {
       skill_name: "Redux",
-      Image: "/machine-learning.png",
+      Image: "/ml.png",
       width: 80,
       height: 80,
     },
@@ -61,7 +61,7 @@ export const Skill_data = [
     },
     {
       skill_name: "Stripe Payment",
-      Image: "/r-programming-language-icon.png",
+      Image: "/r.png",
       width: 80,
       height: 80,
     },
